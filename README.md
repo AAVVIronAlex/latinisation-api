@@ -1,6 +1,6 @@
 # Latinisation API
 
-Latinise non latin strings.
+The APU to latinise non latin strings. For now, it only supports Armenian, but it will soon expand to other langugages too.
 
 ## Instructions
 
@@ -18,7 +18,7 @@ from latinisation import armenian
 armenian.armenian_latinisation(some_input)
 ```
 
-3. Example of a program that uses the latinisation API:
+## Example of a program that uses the latinisation API:
 
 ```python
 from latinisation import armenian
