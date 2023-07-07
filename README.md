@@ -1,4 +1,4 @@
-# Aesthetic ASCII
+# Latinisation API
 
 Latinise non latin strings.
 
